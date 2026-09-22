@@ -9,9 +9,9 @@
 </a>
 
 <!-- 徽章栏 -->
-[![Profile Views](https://komarev.com/ghpvc/?username=laura&color=86A8E7&style=for-the-badge&label=%E8%AE%BF%E5%AE%A2)](https://github.com/laura)
-[![GitHub Followers](https://img.shields.io/github/followers/laura?style=for-the-badge&color=7F7FD5&label=Followers)](https://github.com/laura?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/laura?affiliations=OWNER&style=for-the-badge&color=91EAE4&label=Stars)](https://github.com/laura?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=HUANGDIS&color=86A8E7&style=for-the-badge&label=%E8%AE%BF%E5%AE%A2)](https://github.com/HUANGDIS)
+[![GitHub Followers](https://img.shields.io/github/followers/HUANGDIS?style=for-the-badge&color=7F7FD5&label=Followers)](https://github.com/HUANGDIS?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/HUANGDIS?affiliations=OWNER&style=for-the-badge&color=91EAE4&label=Stars)](https://github.com/HUANGDIS?tab=repositories)
 
 </div>
 
@@ -67,14 +67,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=laura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HUANGDIS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUANGDIS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=laura&theme=tokyo-night&hide_border=true&area=true&area_color=86A8E7&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HUANGDIS&theme=tokyo-night&hide_border=true&area=true&area_color=86A8E7&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
-<img src="https://streak-stats.demolab.com?user=laura&locale=zh_CN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=HUANGDIS&locale=zh_CN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=laura&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=HUANGDIS&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophy" />
 
 </div>
 
@@ -93,19 +93,19 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/laura/project-one"><b>project-one</b></a></td>
+<td><a href="https://github.com/HUANGDIS/project-one"><b>project-one</b></a></td>
 <td>一个很酷的 Web 应用</td>
 <td><code>React</code> <code>Node.js</code></td>
 <td align="center"><img src="https://img.shields.io/badge/%E6%B4%BB%E8%B7%83-green?style=flat-square" alt="Active" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/laura/project-two"><b>project-two</b></a></td>
+<td><a href="https://github.com/HUANGDIS/project-two"><b>project-two</b></a></td>
 <td>云原生部署工具</td>
 <td><code>Go</code> <code>Docker</code> <code>K8s</code></td>
 <td align="center"><img src="https://img.shields.io/badge/%E6%B4%BB%E8%B7%83-green?style=flat-square" alt="Active" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/laura/project-three"><b>project-three</b></a></td>
+<td><a href="https://github.com/HUANGDIS/project-three"><b>project-three</b></a></td>
 <td>开源 CLI 工具</td>
 <td><code>Rust</code></td>
 <td align="center"><img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E4%B8%AD-yellow?style=flat-square" alt="WIP" /></td>
@@ -132,7 +132,7 @@
 `前端工程化` · `性能优化`<br />
 `源码解析` · `踩坑记录`
 
-<a href="https://github.com/laura"><img src="https://img.shields.io/badge/%F0%9F%9A%A7_%E6%90%AD%E5%BB%BA%E4%B8%AD-Coming_Soon-7F7FD5?style=for-the-badge&logo=hexo" alt="搭建中" /></a>
+<a href="https://github.com/HUANGDIS"><img src="https://img.shields.io/badge/%F0%9F%9A%A7_%E6%90%AD%E5%BB%BA%E4%B8%AD-Coming_Soon-7F7FD5?style=for-the-badge&logo=hexo" alt="搭建中" /></a>
 <a href="#"><img src="https://img.shields.io/badge/%E5%B7%B2%E6%9B%B4%E6%96%B0-0%20%E7%AF%87-86A8E7?style=for-the-badge" alt="进度" /></a>
 
 </td>
@@ -144,7 +144,7 @@
 `设计规范` · `双实现`<br />
 `单元测试` · `文档站`
 
-<a href="https://github.com/laura"><img src="https://img.shields.io/badge/%F0%9F%9A%A7_%E8%A7%84%E5%88%92%E4%B8%AD-Coming_Soon-91EAE4?style=for-the-badge&logo=storybook" alt="规划中" /></a>
+<a href="https://github.com/HUANGDIS"><img src="https://img.shields.io/badge/%F0%9F%9A%A7_%E8%A7%84%E5%88%92%E4%B8%AD-Coming_Soon-91EAE4?style=for-the-badge&logo=storybook" alt="规划中" /></a>
 <a href="#"><img src="https://img.shields.io/badge/%E5%B7%B2%E6%94%B6%E5%BD%95-0%20%E4%B8%AA-86A8E7?style=for-the-badge" alt="进度" /></a>
 
 </td>
@@ -158,7 +158,7 @@ LeetCode 刷题笔记与数据结构专题<br /><br />
 `每日一题` · `题型总结`<br />
 `图解算法` · `手写实现`
 
-<a href="https://github.com/laura"><img src="https://img.shields.io/badge/%F0%9F%9A%A7_%E6%90%AD%E5%BB%BA%E4%B8%AD-Coming_Soon-7F7FD5?style=for-the-badge&logo=leetcode" alt="搭建中" /></a>
+<a href="https://github.com/HUANGDIS"><img src="https://img.shields.io/badge/%F0%9F%9A%A7_%E6%90%AD%E5%BB%BA%E4%B8%AD-Coming_Soon-7F7FD5?style=for-the-badge&logo=leetcode" alt="搭建中" /></a>
 <a href="#"><img src="https://img.shields.io/badge/%E5%B7%B2%E5%88%B7-0%20%E9%A2%98-86A8E7?style=for-the-badge" alt="进度" /></a>
 
 </td>
@@ -170,7 +170,7 @@ LeetCode 刷题笔记与数据结构专题<br /><br />
 `八股文精讲` · `场景设计题`<br />
 `简历与复盘` · `面经分享`
 
-<a href="https://github.com/laura"><img src="https://img.shields.io/badge/%F0%9F%9A%A7_%E8%A7%84%E5%88%92%E4%B8%AD-Coming_Soon-91EAE4?style=for-the-badge&logo=markdown" alt="规划中" /></a>
+<a href="https://github.com/HUANGDIS"><img src="https://img.shields.io/badge/%F0%9F%9A%A7_%E8%A7%84%E5%88%92%E4%B8%AD-Coming_Soon-91EAE4?style=for-the-badge&logo=markdown" alt="规划中" /></a>
 <a href="#"><img src="https://img.shields.io/badge/%E7%9F%A5%E8%AF%86%E7%82%B9-0%20%E4%B8%AA-86A8E7?style=for-the-badge" alt="进度" /></a>
 
 </td>
@@ -188,7 +188,7 @@ LeetCode 刷题笔记与数据结构专题<br /><br />
 <td width="50%" align="right">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laura)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HUANGDIS)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.example.com)
 
 </td>
@@ -207,9 +207,9 @@ LeetCode 刷题笔记与数据结构专题<br /><br />
 ## 🐍 贪吃蛇动画
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laura/laura/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laura/laura/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/laura/laura/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUANGDIS/laura/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HUANGDIS/laura/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HUANGDIS/laura/output/github-snake.svg" />
 </picture>
 
 ---
