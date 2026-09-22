@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+/* GitHub Markdown 渲染风格（.markdown-body） */
+.markdown-body {
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body h1,
+.markdown-body h2 {
+  @apply border-b border-[#d1d9e0] pb-2 mt-6 mb-4 font-semibold;
+}
+
+.markdown-body h2 {
+  font-size: 1.5em;
+}
+
+.markdown-body a {
+  @apply text-[#0969da] no-underline;
+}
+
+.markdown-body a:hover {
+  @apply underline;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  background: #fff;
+}
+
+.markdown-body code {
+  @apply rounded-md bg-[#f6f8fa] px-1.5 py-0.5;
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+  font-size: 85%;
+}
+
+.markdown-body pre {
+  @apply rounded-md bg-[#f6f8fa] p-4 overflow-auto;
+}
+
+.markdown-body pre code {
+  @apply bg-transparent p-0;
+  font-size: 100%;
+}
+
+.markdown-body table {
+  @apply w-full my-4 border-collapse;
+}
+
+.markdown-body th,
+.markdown-body td {
+  @apply border border-[#d1d9e0] px-3 py-1.5;
+}
+
+.markdown-body th {
+  @apply bg-[#f6f8fa] font-semibold;
+}
+
+.markdown-body blockquote {
+  @apply my-0 border-l-4 border-[#d1d9e0] pl-4 text-[#59636e];
+}

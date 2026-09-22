@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>GitHub Profile 预览 - Laura</title>
+<!-- marked.js 渲染 Markdown，DOMPurify 清洗 HTML，GitHub Primer 样式 -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script>
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #1f2328;
+    --border: #d1d9e0;
+    --muted: #59636e;
+    --code-bg: #f6f8fa;
+    --link: #0969da;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: #f2f4f8;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+    color: var(--fg);
+  }
+  /* 模拟 GitHub 个人主页顶部导航 */
+  .gh-header {
+    background: #24292f;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .gh-header svg { fill: #fff; }
+  .gh-header .user { font-weight: 600; opacity: .9; }
+  .gh-banner {
+    background: linear-gradient(90deg, #f6f8fa, #eef2f6);
+    border-bottom: 1px solid var(--border);
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .gh-avatar {
+    width: 64px; height: 64px; border-radius: 50%;
+    background: linear-gradient(135deg, #7F7FD5, #86A8E7, #91EAE4);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 26px; font-weight: 700; color: #fff;
+  }
+  .gh-banner .name { font-size: 20px; font-weight: 700; }
+  .gh-banner .login { color: var(--muted); }
+  .gh-banner .note { color: var(--muted); font-size: 12px; margin-top: 4px; }
+  /* README 渲染区域，GitHub 风格 */
+  .markdown-body {
+    max-width: 980px;
+    margin: 24px auto;
+    padding: 32px 48px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    line-height: 1.6;
+    word-wrap: break-word;
+  }
+  .markdown-body h1, .markdown-body h2 {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: .3em;
+  }
+  .markdown-body h2 { font-size: 1.5em; margin-top: 24px; }
+  .markdown-body a { color: var(--link); text-decoration: none; }
+  .markdown-body a:hover { text-decoration: underline; }
+  .markdown-body img { max-width: 100%; background: #fff; }
+  .markdown-body code {
+    background: var(--code-bg);
+    padding: .2em .4em;
+    border-radius: 6px;
+    font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+    font-size: 85%;
+  }
+  .markdown-body pre {
+    background: var(--code-bg);
+    padding: 16px;
+    border-radius: 6px;
+    overflow: auto;
+  }
+  .markdown-body pre code { padding: 0; background: transparent; font-size: 100%; }
+  .markdown-body table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 16px 0;
+  }
+  .markdown-body th, .markdown-body td {
+    border: 1px solid var(--border);
+    padding: 6px 13px;
+  }
+  .markdown-body th { background: var(--code-bg); font-weight: 600; }
+  .markdown-body blockquote {
+    border-left: .25em solid var(--border);
+    color: var(--muted);
+    margin: 0; padding: 0 1em;
+  }
+  /* 本地无法加载的资源提示 */
+  .local-tip {
+    max-width: 980px;
+    margin: 0 auto 24px;
+    padding: 12px 16px;
+    background: #fff8c5;
+    border: 1px solid #d4a72c;
+    border-radius: 8px;
+    font-size: 13px;
+    color: #4d2d00;
+  }
+</style>
+</head>
+<body>
+
+<div class="gh-header">
+  <svg height="24" viewBox="0 0 16 16" width="24"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path></svg>
+  <span>GitHub</span>
+  <span class="user">/ laura / laura</span>
+</div>
+
+<div class="gh-banner">
+  <div class="gh-avatar">L</div>
+  <div>
+    <div><span class="name">Laura</span> <span class="login">· laura</span></div>
+    <div class="note">本地预览（模拟 GitHub Profile 页）— 贪吃蛇动画需推送到 GitHub 后由 Actions 生成本地无法显示</div>
+  </div>
+</div>
+
+<div class="local-tip">
+  ⚠️ 提示：这是本地模拟预览。GitHub Stats、Streak、奖杯等统计图片在本地可以直接加载，但贪吃蛇 SVG 需要仓库推送到 GitHub 并运行 Actions 后才会生成。
+</div>
+
+<article class="markdown-body" id="content">加载中…</article>
+
+<script>
+  const BASE = 'https://github.com/laura';
+  fetch('./README.md')
+    .then(r => r.text())
+    .then(src => {
+      // 将相对路径替换为绝对路径（如有）
+      src = src.replace(/(href|src)="\.\/(?!\/)/g, `$1="${BASE}/laura/`);
+      marked.setOptions({ gfm: true, breaks: false });
+      const html = marked.parse(src);
+      document.getElementById('content').innerHTML = DOMPurify.sanitize(html, {
+        ADD_TAGS: ['picture', 'source'],
+        ADD_ATTR: ['media', 'srcset', 'target']
+      });
+    })
+    .catch(() => {
+      document.getElementById('content').textContent = 'README.md 加载失败，请确认通过 HTTP 服务器访问（而不是直接双击打开文件）。';
+    });
+</script>
+
+</body>
+</html>
