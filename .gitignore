@@ -1,0 +1,6 @@
+# 个人主页仓库（独立的 git 仓库，不要提交到本仓库）
+/HUANGDIS/
+
+# 依赖与构建产物
+node_modules/
+dist/
